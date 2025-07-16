@@ -1,0 +1,5 @@
+
+{
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
